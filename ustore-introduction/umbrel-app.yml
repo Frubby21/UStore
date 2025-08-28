@@ -1,30 +1,26 @@
 manifestVersion: 1
 id: ustore-introduction
-name: Hello World
-tagline: Replace this tagline with your app's tagline
+name: UStore Introductory App
+tagline: The introductory app for this Community Store.
 icon: https://svgur.com/i/mvA.svg
-category: Development
+category: Information
 version: "1.0.0"
-port: 4000
+port: 2332
 description: >-
-  Add your app's description here.
-
-
-  You can also add newlines!
-
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+This app tells you what this Commuinty App Store's features are. Also, this app acts as a hub for all of the apps in this store. Click a app's name to open the app (if its installed).
+developer: Flobby25
+website: https://frubby21.github.io/umbrel
+submitter: Flobby25
+submission: https://github.com/Frubby21/UStore
+repo: https://github.com/Frubby21/UStore
+support: https://github.com/Frubby21/UStore/issues
 gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  Added app to the Community App Store and edited the app's data.
 dependencies: []
 path: ""
-defaultUsername: ""
-defaultPassword: ""
+defaultUsername: "administrator"
+defaultPassword: "changemetoanythingyouwant"
